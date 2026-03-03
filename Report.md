@@ -29,98 +29,108 @@ This project aims to:
 
 **Dataset Overview**
 
+![](images/Road_Accident_Dataset_Overview_1.png)
+
+![](images/Road_Accident_Dataset_Overview_2.png.png)
+
 Data Source: Road accident records
 
 Coverage: Multiple locations and time periods
 
-Key Metrics: Accidents, casualties, fatalities, speed limits, road types, weather, lighting, and surface conditions
+**Key Metrics**: Accidents, casualties, fatalities, speed limits, road types, weather, lighting, and surface conditions
 
-Key Features in the Dashboard
-KPI Metrics
+**Key Features in the Dashboard**
 
-Total Casualties: 195,737
+**KPI Metrics**
 
-Total Accidents: 94,766
+- Total Casualties: 195,737
 
-Fatal Accidents: 1,549
+- Total Accidents: 94,766
 
-Average Speed Limit: 39 mph
+- Fatal Accidents: 1,549
 
-Dashboard Analysis
-Accident Trends
+- Average Speed Limit: 39 mph
 
-Monthly and weekly trends show how accidents and casualties vary across time
+**Dashboard Analysis**
 
-Peak accident periods are clearly highlighted to identify high-risk timeframes
+**Accident Trends**
 
-Time of Day Insights
+- Monthly and weekly trends show how accidents and casualties vary across time
 
-A significant share of accidents occurred between 3 PM and 5 PM, indicating higher risk during peak traffic hours
+- Peak accident periods are clearly highlighted to identify high-risk timeframes
 
-Speed & Severity
+**Time of Day Insights**
 
-68% of accidents occurred within 30 mph zones, highlighting the importance of speed enforcement even at lower limits
+- A significant share of accidents occurred between 3 PM and 5 PM, indicating higher risk during peak traffic hours
 
-Vehicle Type Analysis
+**Speed & Severity**
 
-Cars account for the highest number of casualties
+- 68% of accidents occurred within 30 mph zones, highlighting the importance of speed enforcement even at lower limits
 
-Trucks, motorcycles, buses, and other vehicles contribute varying levels of risk
+**Vehicle Type Analysis**
 
-Road & Area Type
+- Cars account for the highest number of casualties
 
-Single carriageways record the highest number of accidents
+- Trucks, motorcycles, buses, and other vehicles contribute varying levels of risk
 
-Urban areas experience more accidents compared to rural areas
+**Road & Area Type**
 
-Environmental Factors
+- Single carriageways record the highest number of accidents
 
-Most accidents occur in dry road conditions, suggesting driver behavior plays a significant role
+- Urban areas experience more accidents compared to rural areas
 
-Daylight conditions still record a high number of accidents, indicating visibility alone does not eliminate risk
+**Environmental Factors**
 
-Visualizations
+- Most accidents occur in dry road conditions, suggesting driver behavior plays a significant role
+
+- Daylight conditions still record a high number of accidents, indicating visibility alone does not eliminate risk
+
+**Visualizations**
 Main Dashboard View
 
-![Road Accident Dashboard Overview](images/Road Accident Dashboard 1.png)
+![](images/Road_Accident_Dashboard_1.png)
 
 Detailed Analysis View
 
-![Road Accident Detailed Analysis](images/Road Accident dashboard 2.png)
+![](images/Road_Accident_Dashboard_2.png)
 
-Tools & Technologies Used
+**Tools & Technologies Used**
 
 Power BI – Data modeling, DAX measures, and interactive dashboard creation
 
 DAX – Calculated measures for KPIs and trends
 
+![](images/Road_Accident_Dax_Measure_Cleaning.png)
+
 Data Cleaning & Transformation – Ensured accurate and consistent data for analysis
 
-Key Insights
+![](images/images/Road_Accident_Data_Cleaning.png)
 
-Afternoon and evening periods have the highest accident frequency
+**Key Insights**
 
-Urban areas experience more accidents, likely due to higher traffic density
+- Afternoon and evening periods have the highest accident frequency
 
-Cars contribute the largest share of casualties
+- Urban areas experience more accidents, likely due to higher traffic density
 
-Speed regulation zones alone are not enough to prevent accidents
+- Cars contribute the largest share of casualties
 
-Environmental conditions play a role, but human behavior remains a major factor
+- Speed regulation zones alone are not enough to prevent accidents
 
-Recommendations
+- Environmental conditions play a role, but human behavior remains a major factor
 
-Strengthen traffic monitoring during peak hours (especially 3 PM – 5 PM)
+**Recommendations**
 
-Improve road safety awareness campaigns in urban areas
+- Strengthen traffic monitoring during peak hours (especially 3 PM – 5 PM)
 
-Enforce speed limits more effectively, even in lower-speed zones
+- Improve road safety awareness campaigns in urban areas
 
-Enhance road design and signage on high-risk road types
+- Enforce speed limits more effectively, even in lower-speed zones
 
-Combine infrastructure improvements with behavioral safety programs
+- Enhance road design and signage on high-risk road types
 
-Limitations
+- Combine infrastructure improvements with behavioral safety programs
+
+**Limitations**
 
 Dataset does not include driver demographics or behavioral data
 
@@ -128,6 +138,6 @@ External factors such as vehicle condition and driver experience were not availa
 
 Findings represent historical data and may not capture recent changes
 
-Conclusion
+**Conclusion**
 
 This analysis transforms raw road accident data into meaningful insights that highlight risk factors, trends, and safety gaps. The dashboard provides stakeholders with a clear, interactive tool to monitor accidents, understand contributing factors, and support data-driven road safety initiatives.
