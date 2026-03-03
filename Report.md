@@ -1,33 +1,33 @@
 # Road-Accident-Analysis
 Road traffic accidents remain a major public safety concern, leading to loss of lives, injuries, and economic impact. This project analyzes road accident data to uncover patterns, trends, and contributing factors behind accidents and casualties.  
 
-Business Problem
+**Business Problem**
 
 Road safety authorities need a clear understanding of:
 
-When road accidents occur most frequently
+- When road accidents occur most frequently
 
-Where accidents are most concentrated
+- Where accidents are most concentrated
 
-What conditions contribute to higher accident severity
+- What conditions contribute to higher accident severity
 
-How casualties differ by vehicle type, road type, and environment
+- How casualties differ by vehicle type, road type, and environment
 
-Without clear insights, it becomes difficult to design effective safety policies, speed regulations, and infrastructure improvements.
+- Without clear insights, it becomes difficult to design effective safety policies, speed regulations, and infrastructure improvements.
 
-Objectives
+**Objectives**
 
 This project aims to:
 
-Analyze accident and casualty trends over time
+- Analyze accident and casualty trends over time
 
-Identify high-risk periods, locations, and conditions
+- Identify high-risk periods, locations, and conditions
 
-Examine accident severity and contributing factors
+- Examine accident severity and contributing factors
 
-Provide actionable insights to improve road safety strategies
+- Provide actionable insights to improve road safety strategies
 
-Dataset Overview
+**Dataset Overview**
 
 Data Source: Road accident records
 
