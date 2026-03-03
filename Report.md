@@ -86,11 +86,10 @@ Coverage: Multiple locations and time periods
 - Daylight conditions still record a high number of accidents, indicating visibility alone does not eliminate risk
 
 **Visualizations**
-Main Dashboard View
 
 ![](images/Road_Accident_Dashboard_1.png)
 
-Detailed Analysis View
+
 
 ![](images/Road_Accident_Dashboard_2.png)
 
